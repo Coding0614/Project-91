@@ -1,0 +1,60 @@
+.body_background_1{
+    background-color: lightgreen;
+}
+.body_background_2{
+    background-image: url("number_background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: darksalmon;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.mlogin1_div , .mlogin2_div{
+	background: red;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+h2 , label{
+    color: indigo;
+    font-weight: bolder;
+}
+#Login_Button{
+    width: 35%;
+    font-size: 23px;
+}
+#player1_name, #player2_name{
+    display: inline-block;
+    margin-left: 20px;
+    color: lime;
+}
+#Title{
+    font-size: 37px;
+}
+#number_1,#number_2{
+    width: 60%;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#player1_score, #player2_score{
+    color: red;
+}
+#player_question, #player_answer{
+    color:silver;
+    font-weight: bolder;
+}
+#Send_Button{
+    width: 25%;
+    color: deeppink;
+    background-color: mediumblue;
+    font-size: 20px;
+    font-weight: bold;
+}
